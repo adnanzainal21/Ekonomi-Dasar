@@ -1,2 +1,2 @@
-# Ekoonomi-Dasar
+# Ekonomi-Dasar
 Konsep Dasar Sistem Ekonomi
