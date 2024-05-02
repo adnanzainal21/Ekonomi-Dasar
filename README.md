@@ -1,2 +1,1 @@
-# Ekonomi-Dasar
-Konsep Dasar Sistem Ekonomi
+# Konsep Dasar Sistem Ekonomi
